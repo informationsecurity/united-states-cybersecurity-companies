@@ -238,3 +238,47 @@ Each profile includes: strengths, weaknesses, ideal target, approach (manual vs 
 
 ### 4. Information Updated to 2026
 Includes:
+- New regulations (NIST 2.0, SOC 2 Type II, FedRAMP updates)
+- Trends (AI Security, DevSecOps, cloud-native)
+- Emerging cyber threats
+
+---
+
+## 🧩 How to use this guide
+
+### ✅ For Companies
+1. Identify the service  
+2. Analyze the criteria  
+3. Compare providers  
+4. Read the FAQ
+
+### 🎓 For Professionals
+- Skills benchmarking  
+- Specialization opportunities  
+- Trends and regulations
+
+### 🧑‍💼 For CISOs and IT Managers
+- Vendor selection support  
+- Technical approach evaluation  
+- Audit readiness
+
+---
+
+## 📊 Evaluation Methodology
+
+Each vendor has been evaluated on:
+- Certifications and methodologies adopted
+- Industry experience and references
+- Support quality and response times
+- Pricing, flexibility, geographic coverage
+- Integration with other services
+- Contractual transparency
+
+---
+
+## 📬 Contact Us
+
+Do you have reports, corrections or want to propose a new provider?
+
+📧 Write to us at: `sales@isgroup.biz`  
+🌐 Or visit: [www.isgroup.biz](https://www.isgroup.biz/)
