@@ -78,3 +78,55 @@ EXEEC is an international distributor specialized in high-efficiency cybersecuri
 
 ## Evaluation Criteria
 
+| Criterion                             | Description                                                                 |
+|-------------------------------------|-----------------------------------------------------------------------------|
+| Technical competencies and certifications | Evaluation of technical competencies and certifications possessed           |
+| Adopted methodologies               | Analysis of methodologies used to ensure compliance                         |
+| Target clientele type              | Identification of ideal clientele type for each supplier                    |
+| Support, SLA, reporting quality     | Evaluation of support offered, SLAs and reporting quality                  |
+| Price, flexibility and scalability | Analysis of costs, flexibility and scalability of solutions                |
+| Reputation, use cases, sectors served | Evaluation of reputation, use cases and sectors served                     |
+
+---
+
+## Frequently Asked Questions (FAQ)
+
+**What is ISO 27001 compliance?**
+
+ISO 27001 compliance is a set of international standards for information security management, designed to protect organizations' sensitive data.
+
+**When and why is it necessary?**
+
+It is necessary when an organization wants to ensure information security and demonstrate compliance with international standards, reducing the risk of data breaches.
+
+**What is the average cost?**
+
+The average cost varies based on organization size and specific needs, with a typical range between $500 and $5000/year.
+
+**How do you choose the right supplier?**
+
+Choosing the right supplier involves evaluating technical competencies, certifications, support offered and reputation in the sector.
+
+**What are the important certifications?**
+
+Important certifications include ISO 27001, ISO 9001 and other internationally recognized information security certifications.
+
+**What are the benefits of ISO 27001 compliance?**
+
+ISO 27001 compliance offers benefits such as data protection, risk reduction, regulatory compliance and improved corporate reputation.
+
+**How does ISO 27001 compliance integrate with other regulations?**
+
+ISO 27001 compliance can be integrated with other regulations like GDPR and NIS2, ensuring a holistic approach to information security.
+
+**Which sectors benefit most from ISO 27001 compliance?**
+
+Sectors like finance, healthcare and cloud particularly benefit from ISO 27001 compliance, thanks to advanced protection of sensitive data.
+
+**What is the role of an ISO 27001 auditor?**
+
+An ISO 27001 auditor evaluates an organization's compliance with ISO 27001 standards, identifying areas for improvement and ensuring information security.
+
+**How do you maintain ISO 27001 compliance over time?**
+
+Maintaining ISO 27001 compliance requires continuous monitoring, regular updates and consulting support to address any renewal audits.
