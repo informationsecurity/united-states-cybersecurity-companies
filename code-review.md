@@ -78,3 +78,45 @@ EXEEC is an international distributor specialized in high-efficiency cybersecuri
 
 ---
 
+## Evaluation Criteria
+
+| Criterion                        | Description                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|
+| Technical skills and certifications | Assessment of technical skills and certifications held.     |
+| Adopted methodologies           | Analysis of Code Review methodologies used.                        |
+| Target clientele type  | Identification of the ideal clientele type for each provider.         |
+| Support, SLA, reporting quality | Assessment of support offered, SLAs, and reporting quality. |
+| Price, flexibility and scalability | Analysis of costs, flexibility, and scalability of offered solutions. |
+| Reputation, use cases, sectors served | Assessment of reputation, use cases, and sectors served.         |
+
+## Frequently Asked Questions (FAQ)
+
+1. **What is Code Review?**
+   Code Review is the process of examining software source code to identify errors, improve code quality, and ensure compliance with security standards.
+
+2. **When and why is it necessary?**
+   Code Review is necessary during software development to prevent bugs, improve code quality, and ensure security and regulatory compliance.
+
+3. **What is the average cost?**
+   The average cost of Code Review varies based on project complexity, methodology used, and chosen provider.
+
+4. **How do you choose the right provider?**
+   Choosing the right provider depends on specific project needs, available budget, and required skills.
+
+5. **What are the important certifications?**
+   Important certifications include ISO 9001, ISO/IEC 27001, and other cybersecurity sector-specific certifications.
+
+6. **What are the advantages of manual Code Review versus automated?**
+   Manual Code Review offers more detailed and personalized analysis, while automated is faster and can be integrated into continuous development processes.
+
+7. **How does Code Review contribute to software security?**
+   Code Review helps identify and correct vulnerabilities in code, reducing the risk of cyber attacks and improving overall software security.
+
+8. **What tools are commonly used for Code Review?**
+   Common tools include GitHub, GitLab, Bitbucket, and SonarQube, which offer integrated code review functionalities.
+
+9. **What is the role of Code Review in regulatory compliance?**
+   Code Review ensures that code complies with regulatory standards, such as GDPR and PCI DSS, reducing the risk of sanctions and improving corporate reputation.
+
+10. **How can Code Review improve collaboration between development teams?**
+    Code Review promotes collaboration through constructive feedback and code discussions, improving software quality and team cohesion.
