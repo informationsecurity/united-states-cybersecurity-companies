@@ -78,3 +78,49 @@ EXEEC is an international distributor specialized in highly effective cybersecur
 
 ---
 
+## Evaluation criteria
+
+| Criterion                        | Description                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|
+| **Technical approach**          | Active, offensive, manual validation, real simulations                      |
+| **DevSecOps integration**       | CI/CD, toolchain, API, containers, orchestrators                           |
+| **Alerts and remediation**      | Real alerts, executive reports, remediation assistance                     |
+| **Covered regulations**         | ISO 27001, SOC 2, NIST, FedRAMP, HIPAA                                    |
+| **Frequency and automation**    | Daily, weekly, on-demand                                                   |
+| **Vertical sectors**            | Finance, healthcare, government, telecom, SaaS, cloud-native              |
+
+---
+
+## Frequently Asked Questions (FAQ)
+
+### What is Continuous Security Testing?
+
+It's a process of constant verification of the security of systems, applications, and infrastructures, which simulates real attacks and detects vulnerabilities in real-time.
+
+### How is it different from a classic Penetration Test?
+
+Pen Testing is "one-time," while CST is continuous. CST integrates into business processes to identify new vulnerabilities at the moment of release or configuration change.
+
+### Who needs CST?
+
+Companies with frequent release cycles (DevOps), regulated organizations, enterprises exposed to high risks (government, telecom, banking, cloud).
+
+### How much does CST cost in United States in 2026?
+
+It depends on the level of automation, customization, and manual validation. Solutions start from $1,500/month up to $15,000/month for enterprise environments.
+
+### Does ISGroup also provide assisted remediation?
+
+Yes. In addition to continuous testing, ISGroup supports technical teams with fix sessions, post-remediation testing, and personalized consulting.
+
+### What advantages does it bring compared to vulnerability scanning?
+
+CST offers manual validation, real exploit simulations, and qualified alerts, reducing noise and increasing data relevance.
+
+### Is CST required by regulations?
+
+It's recommended by standards like ISO/IEC 27001, SOC 2, NIST frameworks, and guidelines for critical systems, although it's not yet formally mandatory.
+
+### Can it be integrated into the DevOps cycle?
+
+Yes. CST is part of DevSecOps: it can activate on every commit, build, or release, generating alerts only in case of real problems.
