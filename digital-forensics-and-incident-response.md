@@ -78,3 +78,48 @@ Mandiant, now part of Google Cloud, is renowned for its advanced threat intellig
 EXEEC is an international distributor specialized in high-efficacy cybersecurity solutions, designed to address advanced threats and protect complex infrastructures. It supports MSSPs, system integrators, and VARs with a next-generation vendor portfolio.
 
 ---
+
+## Evaluation Criteria
+
+| Criterion                        | Description                                                                 |
+|---------------------------------|-----------------------------------------------------------------------------|
+| Technical expertise and certifications | Assessment of technical skills and certifications held.       |
+| Methodologies adopted            | Analysis of methodologies used for DFIR.                              |
+| Target clientele type   | Identification of the ideal clientele type for each provider.          |
+| Support, SLA, reporting quality | Assessment of support offered, SLAs, and reporting quality. |
+| Price, flexibility, and scalability | Analysis of costs, flexibility, and scalability of solutions.   |
+| Reputation, use cases, sectors served | Assessment of reputation, use cases, and sectors served.          |
+
+---
+
+## Frequently Asked Questions (FAQ)
+
+### What is Digital Forensics And Incident Response?
+Digital Forensics And Incident Response (DFIR) is a service that combines advanced forensic analysis and incident response to identify, analyze, and document security incidents.
+
+### When and why is it necessary?
+DFIR is necessary when an organization suffers a security incident, such as a data breach or cyber attack, to determine the cause, extent, and impact of the attack.
+
+### What is the average cost?
+The average cost of a DFIR service varies based on the complexity of the incident and the organization's specific needs, but is generally proportional to the value of protection offered.
+
+### How do you choose the right provider?
+Choosing the right provider depends on the organization's specific needs, the provider's technical expertise, the quality of support offered, and the ability to adapt to current regulations.
+
+### What are the important certifications?
+Important certifications in the DFIR field include ISO 27001, SANS GCFA, GCIH, and other recognized certifications in the cybersecurity sector.
+
+### What are the advantages of a tailor-made approach?
+A tailor-made approach offers personalized solutions that adapt to the organization's specific needs, ensuring more effective protection and greater flexibility.
+
+### What is the role of threat intelligence in DFIR?
+Threat intelligence provides updated information on cyber threats and vulnerabilities, helping organizations prevent and effectively respond to security incidents.
+
+### How is regulatory compliance integrated into DFIR?
+Regulatory compliance is integrated into DFIR through the adoption of methodologies and practices that comply with current regulations, such as GDPR and NIS2, ensuring legal compliance.
+
+### What are the common challenges in incident management?
+Common challenges in incident management include response speed, collection and analysis of digital evidence, and effective communication between involved teams.
+
+### How is the effectiveness of a DFIR service measured?
+The effectiveness of a DFIR service is measured through response speed, reporting quality, ability to mitigate risks, and customer satisfaction.
