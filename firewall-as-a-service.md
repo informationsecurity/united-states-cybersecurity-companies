@@ -78,3 +78,41 @@ EXEEC is an international distributor specialized in highly effective cybersecur
 
 ---
 
+## Evaluation criteria
+
+| Criterion                       | Description                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|
+| **Management and support**      | Managed service, policy tuning, alerts and logs                            |
+| **Technology**                  | L7 filtering, TLS inspection, identity-aware firewall                      |
+| **Integration**                 | SOC, SIEM, XDR, SD-WAN, Zero Trust                                         |
+| **Supported compliance**        | ISO/IEC 27001, GDPR, NIST, SOX, HIPAA                                      |
+| **Ease of use**                 | Portal, API, assistance, customer support                                  |
+| **Performance and scalability** | Multi-tenant, encrypted traffic, low latency                               |
+
+---
+
+## Frequently Asked Questions (FAQ)
+
+### What is Firewall-as-a-Service (FWaaS)?
+It's a firewall managed entirely in the cloud that protects network traffic and applications from any access point, without the need for on-premises hardware.
+
+### What are the advantages over a traditional firewall?
+Greater scalability, access from anywhere, automatic updates, centralized visibility, and reduced hardware costs.
+
+### Is FWaaS suitable for smart working and remote offices?
+Yes. It protects devices and users wherever they are, with centralized policies and real-time reporting.
+
+### Does ISGroup provide support for initial configuration?
+Yes. The service includes initial consulting, import of existing rules, and policy customization.
+
+### Is it possible to integrate FWaaS with my SIEM or SOC?
+Yes. ISGroup provides log forwarding, APIs, and integration with XDR/SIEM/SOC for real-time alerts and analysis.
+
+### How much does a FWaaS service cost?
+It depends on the number of users, offices, traffic, and features. Solutions start from about $200/month for SMEs, up to $2,000/month for enterprise environments.
+
+### Is the service certified according to ISO or compliance standards?
+ISGroup is ISO/IEC 27001 and 9001 certified. The FWaaS service complies with guidelines for critical systems.
+
+### Does the firewall also block HTTPS attacks?
+Yes, thanks to TLS inspection (with controlled decryption), ISGroup's FWaaS can analyze encrypted traffic and block hidden threats.
