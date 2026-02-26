@@ -78,3 +78,41 @@ EXEEC is an international distributor of advanced training technologies, special
 
 ---
 
+## Evaluation Criteria
+
+| Criterion                        | Description                                                                 |
+|----------------------------------|-----------------------------------------------------------------------------|
+| **Target**                       | CISO, developers, IT, users, board, government, SMEs                       |
+| **Content**                      | Awareness, technical, regulatory, compliance, offensive, DFIR               |
+| **Delivery method**              | Classroom, on-site, online, blended                                        |
+| **Audit validity**               | Certificate, participant registry, test results                             |
+| **Language**                     | English, other languages                                                    |
+| **Supported certifications**     | OSCP, CISSP, CEH, ISO, DPO, CISA                                          |
+
+---
+
+## Frequently Asked Questions (FAQ)
+
+### Why is cybersecurity training important in 2026?
+Because threats grow and change every month. Continuous training reduces human risks, improves detection, and strengthens security posture.
+
+### Does ISGroup issue certificates?
+Yes. All ISGroup courses include a certificate of participation, useful for audits and compliance demonstration.
+
+### Is it possible to have custom training?
+Absolutely. ISGroup customizes content, duration, language, and delivery methods based on the business context.
+
+### Are there hands-on technical courses?
+Yes. ISGroup offers workshops with simulations, guided exploits, live code reviews, and mini red teaming.
+
+### Is the training valid for compliance purposes?
+Yes. Training and awareness are required by ISO/IEC 27001, GDPR, SOC 2, NIST, and other regulations.
+
+### How much does a course cost?
+It depends on the number of participants, duration, and content. Starting from about $1,000 for basic modules, up to complete training projects from $5,000 and up.
+
+### Are there courses for non-technical users?
+Yes. User awareness is one of the pillars: phishing, passwords, secure use of digital tools.
+
+### Does ISGroup offer remote courses?
+Yes. All courses are available both online and in classroom, with live instructors and interactive materials.
