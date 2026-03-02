@@ -78,3 +78,41 @@ EXEEC is an international distributor of advanced cybersecurity technologies, sp
 
 | Criterion                        | Description                                                                 |
 |--------------------------------|-----------------------------------------------------------------------------|
+| Technical skills and certifications | Assessment of technical skills and certifications held.     |
+| Methodologies adopted           | Analysis of methodologies used to ensure GDPR compliance.       |
+| Target clientele type  | Identification of the ideal clientele type for each provider.          |
+| Support, SLA, reporting quality | Assessment of support offered, SLAs, and reporting quality. |
+| Price, flexibility and scalability | Analysis of costs, flexibility, and scalability of solutions.   |
+| Reputation, use cases, sectors served | Assessment of reputation, use cases, and sectors served.         |
+
+## Frequently Asked Questions (FAQ)
+
+- **What is GDPR Compliance?**
+  GDPR Compliance refers to adherence to General Data Protection Regulation standards, which regulate the protection of personal data in the European Union.
+
+- **When and why is it necessary?**
+  It is necessary for any company that handles personal data of EU citizens, to ensure data protection and avoid sanctions.
+
+- **What is the average cost?**
+  The average cost varies based on company size and complexity of required solutions, but can range between $1,800 and $18,000.
+
+- **How do you choose the right provider?**
+  Choosing the right provider involves evaluating technical skills, methodologies, support offered, and reputation in the sector.
+
+- **What are the important certifications?**
+  Certifications such as ISO 9001, ISO/IEC 27001, and other sector-specific ones are important to ensure provider quality and reliability.
+
+- **Do you offer continuous support and dedicated training?**
+  Yes, we offer continuous support and dedicated training to ensure lasting and updated GDPR compliance.
+
+- **How can I ensure the protection of sensitive data?**
+  By implementing cybersecurity solutions that include data security assessment, technical and organizational measures, and security incident management.
+
+- **What consent management tools are available?**
+  Tools like Cookiebot and Iubenda offer solutions for consent management and cookie compliance.
+
+- **How can I integrate GDPR compliance into my existing systems?**
+  We offer consulting to integrate GDPR compliance into existing systems, evaluating DPA transparency, EU data center location, and data controls.
+
+- **What are the solutions for personal data management?**
+  Solutions like OneTrust and TrustArc offer platforms for privacy management and GDPR compliance, with modules for privacy, data, and governance management.
