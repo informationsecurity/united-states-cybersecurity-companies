@@ -78,3 +78,41 @@ EXEEC is an international distributor specialized in highly effective cybersecur
 
 | Criterion                        | Description                                                                 |
 |---------------------------------|-----------------------------------------------------------------------------|
+| Technical skills and certifications | Evaluation of technical skills and certifications held by the team. |
+| Adopted methodologies            | Analysis of assessment methodologies used, such as OWASP and NIST.      |
+| Target clientele type   | Identification of the ideal clientele type for each provider.          |
+| Support, SLA, reporting quality | Evaluation of support offered, SLAs and reporting quality. |
+| Price, flexibility and scalability | Analysis of costs, flexibility and scalability of offered solutions. |
+| Reputation, use cases, sectors served | Evaluation of provider reputation, use cases and sectors served. |
+
+## Frequently Asked Questions (FAQ)
+
+- **What is an IoT Security Assessment?**
+  An IoT Security Assessment is a security evaluation process for IoT devices, networks and infrastructures to identify vulnerabilities and risks.
+
+- **When and why is it necessary?**
+  It's necessary when implementing IoT devices in critical environments to ensure security and regulatory compliance.
+
+- **What is the average cost?**
+  The average cost varies based on infrastructure complexity and required services, but can start from a few thousand dollars.
+
+- **How do you choose the right provider?**
+  You choose by evaluating technical skills, certifications, adopted methodologies and provider reputation.
+
+- **What are the important certifications?**
+  Certifications like OSCP, CEH, CISSP and ISO/IEC 27001 are important to ensure security team competence.
+
+- **What are complete IoT security solutions?**
+  Solutions that offer extended technological coverage, protection for embedded devices and advanced threat analysis.
+
+- **What post-analysis services are available?**
+  Vulnerability management services and continuous improvement of IoT security.
+
+- **What are the most used assessment methodologies?**
+  Methodologies based on standards like OWASP IoT Top 10 and NIST IoT Guidelines.
+
+- **What are the advantages of a holistic approach to IoT security?**
+  A holistic approach ensures complete protection covering all aspects of IoT security.
+
+- **What vertical skills are necessary for IoT security?**
+  Skills in embedded security, OT/IoT convergence and critical infrastructure protection.
