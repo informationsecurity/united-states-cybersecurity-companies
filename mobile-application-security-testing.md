@@ -78,3 +78,41 @@ Symantec offers mobile security solutions that integrate advanced technologies t
 EXEEC is an international distributor of advanced cybersecurity technologies, specialized in offensive security and compliance. Ideal for large organizations that need high-impact technical solutions and continuous specialized support.
 
 ---
+
+## Evaluation Criteria
+
+| Criterion                       | Description                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|
+| **Platforms covered**          | iOS, Android, hybrid, PWA                                                  |
+| **Test types**                 | Static (SAST), Dynamic (DAST), Runtime (RASP), API fuzzing                 |
+| **Reference standards**        | OWASP MASVS, OWASP Mobile Top 10, GDPR, PCI DSS                            |
+| **Reports**                    | Detailed, executive, with remediation and evidence                          |
+| **Tools**                      | Frida, Burp Suite, MobSF, jadx, Ghidra, custom scripts                     |
+
+---
+
+## Frequently Asked Questions (FAQ)
+
+### What is a Mobile Application Security Test?
+It's a technical analysis that verifies the security of a mobile app, including code vulnerabilities, data, authentication, encryption, and communications.
+
+### Does ISGroup also test APIs connected to the app?
+Yes. The approach is end-to-end: app, APIs, backend, sessions, identity, and cloud.
+
+### Is the test compatible with MASVS and OWASP?
+Yes. All ISGroup tests follow MASVS L1-L2 levels, OWASP Mobile Top 10, and industry standards.
+
+### How much does an app test cost?
+Between $4,000 and $15,000 depending on number of features, APIs, platforms, and required techniques.
+
+### Is the test invasive? Can it cause malfunctions?
+No. All activities are simulated in a controlled test environment. Possibility to operate on dedicated builds (test builds).
+
+### How long does it take?
+From 1 to 3 weeks based on depth, features, backend, and APIs.
+
+### Can the report be used for GDPR or PCI audits?
+Yes. The ISGroup report is detailed, traceable, and ready for auditors, CISOs, DPOs, and tenders.
+
+### Do you also offer retesting after patches?
+Yes. It's included free of charge within 30 days of the test, on critical issues.
