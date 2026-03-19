@@ -78,3 +78,47 @@ EXEEC is an international distributor specialized in highly effective cybersecur
 
 ---
 
+## Evaluation criteria
+
+| Criterion                       | Description                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|
+| **Technical skills and certifications** | Assessment of certifications and technical skills of the provider. |
+| **Adopted methodologies**      | Analysis of methodologies used for threat detection and response.           |
+| **Target clientele type**      | Identification of the ideal target for each provider.                      |
+| **Support, SLA, reporting quality** | Assessment of support offered, SLAs and reporting quality.            |
+| **Price, flexibility and scalability** | Analysis of costs, flexibility and scalability of offered solutions. |
+| **Reputation, use cases, sectors served** | Consideration of provider reputation and sectors in which it operates. |
+
+---
+
+## Frequently Asked Questions (FAQ)
+
+### What is Multi-Signal MDR?
+Multi-Signal MDR is a threat detection and response service that integrates signals from different sources for complete protection.
+
+### When and why is it necessary?
+It's necessary when a company wants to protect its critical infrastructures from advanced threats and ensure operational continuity.
+
+### What is the average cost?
+The average cost varies based on infrastructure complexity and required services, but is generally competitive compared to the benefits offered.
+
+### How do you choose the right provider?
+You choose by evaluating technical skills, methodologies, support, price and provider reputation.
+
+### What are the important certifications?
+Important certifications include ISO 9001, ISO/IEC 27001 and others recognized in the cybersecurity field.
+
+### What are the advantages of Multi-Signal MDR?
+Advantages include proactive threat detection, continuous monitoring and rapid incident response.
+
+### How does Multi-Signal MDR integrate with existing systems?
+Multi-Signal MDR easily integrates with existing security systems, reducing operational complexity.
+
+### What technologies are used in Multi-Signal MDR?
+It uses AI/Machine Learning technologies to detect and respond to threats effectively.
+
+### What is the role of SOC in Multi-Signal MDR?
+The SOC manages 24/7 threat monitoring and response, ensuring continuous protection.
+
+### How do you measure the effectiveness of Multi-Signal MDR?
+Effectiveness is measured through alert timeliness, response capability and reduction of false positives.
