@@ -78,3 +78,40 @@ EXEEC is an international distributor specialized in cybersecurity solutions for
 
 ---
 
+## Evaluation criteria
+
+| Criterion                        | Description                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|
+| **Scope**                      | Internal, external, DMZ, cloud, hybrid, AD, OT                             |
+| **Method**                     | Manual, real exploitation, no false positives                              |
+| **Techniques**                 | MITRE ATT&CK, red team, privilege escalation, AD attacks                   |
+| **Certifications**             | OSCP, CRTO, CISSP, CISA, CEH                                              |
+| **Supported compliance**       | ISO/IEC 27001, NIS2, GDPR, SOX, HIPAA                                     |
+
+---
+
+## Frequently Asked Questions (FAQ)
+
+### What is a Network Penetration Test?
+It's a test that simulates an attack on a corporate network to identify vulnerabilities that can actually be exploited by an attacker.
+
+### Does ISGroup also test Active Directory?
+Yes. AD attacks are a core part of the tests: golden ticket, Kerberoasting, ACL abuse, RBCD, LLMNR spoofing.
+
+### Is the PT done manually or with automated tools?
+Manual. Tools are only used for support. Exploitation and strategy are conducted by ISGroup experts.
+
+### How much does a Penetration Test cost?
+It depends on size and scope. From ~$5,000 for simple networks, over $15,000 for complex environments.
+
+### Is the report suitable for auditors or board?
+Yes. ISGroup provides dual reports: technical with exploits + executive with risk and remediation.
+
+### Can the test cause service disruptions?
+No, if requested it's executed in "safe" mode without production impact. Test window possibility available.
+
+### Does the test also cover cloud and VPN?
+Yes. ISGroup also performs PT on VPN, cloud, hybrid, SD-WAN, Zero Trust Network.
+
+### Is PT useful for compliance?
+Absolutely yes. It's required by NIS2, SOX, ISO/IEC 27001, GDPR for real posture verification.
