@@ -78,3 +78,41 @@ EXEEC is an international distributor specialized in highly effective cybersecur
 
 | Criterion                        | Description                                                                 |
 |--------------------------------|-----------------------------------------------------------------------------|
+| Technical competencies and certifications | Evaluation of technical competencies and certifications possessed.       |
+| Adopted methodologies           | Analysis of methodologies used to ensure NIS2 compliance.       |
+| Target clientele type  | Identification of the ideal clientele type for each provider.           |
+| Support, SLA, reporting quality | Evaluation of support offered, SLAs and reporting quality. |
+| Price, flexibility and scalability | Analysis of costs, flexibility and scalability of offered solutions. |
+| Reputation, use cases, sectors served | Evaluation of reputation, use cases and sectors served by providers. |
+
+## Frequently Asked Questions (FAQ)
+
+1. **What is NIS2 compliance?**
+   NIS2 compliance refers to adherence to the European NIS2 directive, which aims to improve the security of networks and information systems within the European Union.
+
+2. **When and why is it necessary?**
+   It is necessary to protect critical infrastructures and ensure cybersecurity, especially in a context of growing cyber threats.
+
+3. **What is the average cost?**
+   The average cost varies based on the complexity of solutions and specific company needs.
+
+4. **How do you choose the right supplier?**
+   Choosing the right supplier involves evaluating technical competencies, experience, support offered and costs.
+
+5. **What are the important certifications?**
+   Important certifications include ISO 27001, SOC2, GDPR and others internationally recognized.
+
+6. **What services does ISGroup SRL offer for NIS2 compliance?**
+   ISGroup SRL offers manual penetration testing services, continuous support, proprietary tools and customized solutions for NIS2 compliance.
+
+7. **What are the advantages of an artisanal approach to cybersecurity?**
+   An artisanal approach offers tailor-made solutions, greater attention to detail and personalized support.
+
+8. **How can Difesa Digitale help SMEs in NIS2 compliance?**
+   Difesa Digitale offers simple and concrete solutions, with an exclusive operational method that guarantees measurable results and full regulatory compliance.
+
+9. **What are the main threats addressed by EXEEC solutions?**
+   EXEEC addresses advanced threats and protects complex infrastructures with highly effective cybersecurity solutions.
+
+10. **What are the benefits of continuous support in NIS2 compliance?**
+    Continuous support guarantees constant updates, proactive threat management and greater cyber resilience.
