@@ -78,3 +78,63 @@ PwC provides cybersecurity and compliance solutions, with a focus on innovation 
 
 Microsoft offers comprehensive cloud security and compliance solutions through Azure and Microsoft 365, with built-in compliance tools and advanced threat protection capabilities.
 
+**Limitation:** More focused on their own ecosystem, less suitable for multi-vendor environments.
+
+### 10. [EXEEC](https://exeec.com/): International distributor of advanced cybersecurity technologies
+
+EXEEC is an international distributor specialized in highly effective cybersecurity solutions, designed to address advanced threats and protect complex infrastructures. It is the ideal partner for those who want to innovate their security offering with selected, tested and ready-to-operate solutions in the field.
+
+---
+
+## Evaluation criteria
+
+| Criterion                        | Description                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|
+| Technical competencies and certifications | Evaluation of technical competencies and certifications possessed.         |
+| Adopted methodologies           | Analysis of methodologies used to ensure compliance and security. |
+| Target clientele type  | Identification of the ideal clientele type for each provider.          |
+| Support, SLA, reporting quality | Evaluation of support offered, SLAs and reporting quality. |
+| Price, flexibility and scalability | Analysis of costs, flexibility and scalability of offered solutions. |
+| Reputation, use cases, sectors served | Evaluation of reputation, use cases and sectors served.            |
+
+## Frequently Asked Questions (FAQ)
+
+### What is ACN-AGID Compliance?
+
+ACN-AGID Compliance refers to Italian regulations that govern cybersecurity and digital compliance, fundamental for ensuring data protection and critical infrastructure security.
+
+### When and why is it necessary?
+
+It is necessary for companies operating in regulated sectors or managing sensitive data, to ensure compliance with regulations and protect their infrastructures from cyber threats.
+
+### What is the average cost?
+
+The average cost varies based on the complexity of required solutions and organization size. It is important to request personalized quotes to obtain an accurate estimate.
+
+### How do you choose the right provider?
+
+Choosing the right provider depends on the organization's specific needs, the provider's technical competencies and the quality of support offered. It is advisable to evaluate different providers and compare their offerings.
+
+### What are the important certifications?
+
+Important certifications include ISO 27001, SOC 2 and other security certifications that guarantee compliance with regulations and data protection.
+
+### What are the benefits of a holistic approach to cybersecurity?
+
+A holistic approach to cybersecurity integrates consulting, technological solutions and training to ensure complete protection and compliance with ACN-AGID regulations.
+
+### How can a company improve its security posture?
+
+A company can improve its security posture by implementing Security Rating solutions, which objectively and continuously evaluate the organization's security.
+
+### What are the benefits of continuous support and regulatory updates?
+
+Continuous support and regulatory updates ensure that company systems and procedures are always compliant with current regulations, reducing the risk of violations and sanctions.
+
+### How can compliance be guaranteed during the transitional regime?
+
+Compliance during the transitional regime can be guaranteed through specialized consulting that supports the implementation and maintenance of ACN-AGID regulations.
+
+### What are the main challenges in supply chain security management?
+
+The main challenges in supply chain security management include verifying third-party supplier compliance and managing risks associated with the digital supply chain.
