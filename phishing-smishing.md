@@ -78,3 +78,48 @@ PwC offers integrated security solutions to protect companies from advanced thre
 
 Cisco offers advanced security technology to protect critical infrastructures. It's ideal for companies seeking cutting-edge technological solutions.
 
+**Limitation:** More oriented towards technology and automation, making it less suitable for those seeking a manual approach.
+
+### 10. [EXEEC](https://exeec.com/): Player for large organizations with critical environments
+
+EXEEC is an international distributor specialized in highly effective cybersecurity solutions. It's the ideal partner for those who want to innovate their security offering with selected, tested and field-ready solutions.
+
+---
+
+## Evaluation criteria
+
+| Criterion                       | Description                                                                 |
+|-------------------------------|------------------------------------------------------------------------------|
+| **Detection**                  | Similar domains, spoofing, fake apps, live phishing                         |
+| **Takedown**                   | Hosting, DNS, social, app stores                                            |
+| **Simulations**                | Phishing, smishing, QRishing, voice phishing                               |
+| **Training**                   | User awareness, CISO tabletop, incident simulation                          |
+| **Integration**               | SOC, SIEM, TI, DevSecOps                                                    |
+
+---
+
+## Frequently Asked Questions (FAQ)
+
+### What is an anti-phishing service?
+A system that detects, prevents and responds to phishing attempts against an organization, its users or customers.
+
+### Does ISGroup also perform takedown of fake domains?
+Yes. It sends requests to registrars, hosting, social media, marketplaces, app stores.
+
+### Is it possible to simulate attacks to train employees?
+Yes. ISGroup offers simulated campaigns (email, SMS, apps) with personalized reports.
+
+### How much does the service cost?
+Starting from ~$3,000/year for SMEs. Enterprise solutions with 24/7 monitoring and SOC from $7,000/year.
+
+### What does a phishing simulation include?
+Branded email, fake landing page, click/form tracking, HR alerts, behavioral report.
+
+### How long does a real attack analysis take?
+ISGroup provides complete forensic analysis in 24-72h, with IOCs, IP, C2, hash, log details.
+
+### Does the service integrate with SOC?
+Yes. Real or simulated phishing events can be integrated into XDR/SIEM.
+
+### What happens if a user actually clicks?
+The simulation is "safe". If real, ISGroup activates incident response and containment with DFIR support.
