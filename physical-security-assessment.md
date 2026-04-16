@@ -78,3 +78,40 @@ EXEEC is an international distributor specialized in high-effectiveness cybersec
 
 ---
 
+## Evaluation Criteria
+
+| Criterion                        | Description                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|
+| **Techniques**                   | Tailgating, fake badges, social engineering, CCTV disabling, device planting |
+| **Assets**                      | Server rooms, data centers, UPS, surveillance systems, access points, HVAC   |
+| **Evidence**                   | Photos, videos, logs, badges, access records                                |
+| **Supported Compliance**      | ISO/IEC 27001, NIST, SOC 2, FISMA, PCI DSS                                 |
+| **Delivery**                   | Onsite physical testing, audits, remediation, incident simulation           |
+
+---
+
+## Frequently Asked Questions (FAQ)
+
+### What is a Physical Security Assessment?
+It's a verification activity of the physical security of a corporate infrastructure, aimed at detecting unauthorized access, environmental or procedural vulnerabilities.
+
+### Does ISGroup actually enter physically?
+Yes. It simulates real attacks with expert technicians, with prior authorization, documenting every phase (entry, bypass, exfiltration).
+
+### How much does a physical test cost?
+Starting from ~$5,000, with multiple scenarios, evidence, simulations. Custom projects up to $20,000.
+
+### How long does it take?
+From 1 to 5 days onsite, plus reporting.
+
+### Is it needed for ISO/IEC 27001?
+Yes. It verifies physical controls (A.9.1, A.11.1, A.11.2) required by ISO standards and NIST frameworks.
+
+### What if a serious vulnerability is discovered?
+ISGroup provides a remediation plan, technical support, and documentation for rapid fixes.
+
+### Can an insider attack be simulated?
+Yes. ISGroup includes tests from fictitious internal personnel or "disguised" external technicians.
+
+### Is the service repeatable?
+Yes. Recommended every 12 months or after site changes, contracts, reorganizations.
