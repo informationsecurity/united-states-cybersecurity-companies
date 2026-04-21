@@ -78,3 +78,41 @@ EXEEC is an international distributor specialized in high-efficiency cybersecuri
 
 | Criterion                        | Description                                                                 |
 |---------------------------------|-----------------------------------------------------------------------------|
+| Technical competencies and certifications | Assessment of technical competencies and certifications held.     |
+| Adopted methodologies            | Analysis of methodologies used to ensure PSD2 compliance.       |
+| Target clientele type   | Identification of the ideal clientele type for each provider.          |
+| Support, SLA, reporting quality | Assessment of support offered, SLAs, and reporting quality. |
+| Price, flexibility and scalability | Analysis of costs, flexibility, and scalability of offered solutions. |
+| Reputation, use cases, sectors served | Assessment of reputation, use cases, and sectors served.         |
+
+## Frequently Asked Questions (FAQ)
+
+1. **What is PSD2 Compliance?**
+   PSD2 Compliance refers to adherence to regulations established by the Payment Services Directive 2, which regulates payment services and security of financial transactions in Europe.
+
+2. **When and why is it necessary?**
+   It's necessary to ensure the security of financial transactions, protect customer data, and maintain user trust in financial services.
+
+3. **What is the average cost?**
+   The average cost varies depending on the complexity of required solutions and organization size. It's important to assess specific needs to obtain an accurate quote.
+
+4. **How do you choose the right provider?**
+   Choosing the right provider depends on several factors, including technical competencies, certifications, support offered, and reputation in the sector.
+
+5. **What are the important certifications?**
+   Important certifications include ISO 9001, ISO/IEC 27001, and other specific certifications for cybersecurity and regulatory compliance.
+
+6. **What are the advantages of cloud-based PSD2 solutions?**
+   Cloud-based PSD2 solutions offer scalability, flexibility, and ease of integration with existing systems, while ensuring regulatory compliance.
+
+7. **How to ensure the security of financial transactions?**
+   Security of financial transactions can be ensured through implementation of strong authentication solutions, advanced encryption, and continuous transaction monitoring.
+
+8. **What are common challenges in PSD2 compliance?**
+   Common challenges include risk management, integration with existing systems, and adaptation to continuously evolving regulations.
+
+9. **How do modern APIs facilitate PSD2 implementation?**
+   Modern APIs enable rapid and secure implementation of payment solutions, facilitating access to banking data and payment initiation.
+
+10. **What is the role of Strong Customer Authentication (SCA) in PSD2?**
+    SCA is a fundamental requirement of PSD2 that ensures transaction security through multi-factor authentication, reducing fraud risk.
