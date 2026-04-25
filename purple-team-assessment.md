@@ -78,3 +78,47 @@ EXEEC is an international distributor specialized in highly effective cybersecur
 
 ---
 
+## Evaluation criteria
+
+| Criterion                        | Description                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|
+| Technical competencies and certifications | Evaluation of certifications and technical competencies of the team.       |
+| Adopted methodologies           | Analysis of methodologies used for Purple Team Assessment.          |
+| Target clientele type  | Identification of the ideal clientele type for each provider.           |
+| Support, SLA, reporting quality | Evaluation of support offered, SLAs and quality of reports.        |
+| Price, flexibility and scalability | Analysis of costs, flexibility and scalability of offered services. |
+| Reputation, use cases, served sectors | Evaluation of provider reputation and sectors in which it operates.         |
+
+---
+
+## Frequently Asked Questions (FAQ)
+
+### What is Purple Team Assessment?
+Purple Team Assessment is an integrated approach that combines the offensive capabilities of the Red Team with the defensive capabilities of the Blue Team to improve an organization's security posture.
+
+### When and why is it necessary?
+It is necessary when an organization wants to test and improve its ability to detect and respond to advanced threats, integrating offensive and defensive competencies.
+
+### What is the average cost?
+The average cost varies based on infrastructure complexity and specific organizational needs, but it is generally a significant investment that offers high returns in terms of security.
+
+### How do you choose the right provider?
+Choosing the right provider involves evaluating technical competencies, certifications, industry experience and the ability to offer personalized solutions.
+
+### What are the important certifications?
+Certifications like OSCP, CEH, and CISSP are important indicators of the security team's technical competencies.
+
+### What are the benefits of a Purple Team approach?
+A Purple Team approach improves collaboration between offensive and defensive teams, optimizes threat detection and strengthens incident response.
+
+### Which sectors benefit most from Purple Team Assessment?
+Regulated sectors like finance, healthcare and critical infrastructures particularly benefit from Purple Team Assessment.
+
+### How does Purple Team Assessment integrate with security regulations?
+Purple Team Assessment can be aligned with frameworks like MITRE ATT&CK and NIST to ensure regulatory compliance.
+
+### What is the role of threat intelligence in Purple Team Assessment?
+Updated threat intelligence is fundamental for simulating realistic attacks based on real threats.
+
+### How do you measure the success of a Purple Team Assessment?
+Success is measured through improved ability to detect and respond to threats, report quality and client feedback.
