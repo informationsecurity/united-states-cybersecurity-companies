@@ -78,3 +78,60 @@ NTT DATA offers innovative solutions for the security of complex environments, w
 
 ### 10. [EXEEC](https://exeec.com/): Player for large organizations with critical environments
 
+EXEEC is an international distributor of advanced cybersecurity technologies, specialized in offensive security and compliance. Ideal for large organizations that need high-impact technical solutions.
+
+---
+
+## Evaluation criteria
+
+| Criterion                        | Description                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|
+| **Scope**                      | Cloud, hybrid, OT, SaaS, DevOps, legacy                                    |
+| **Framework**                  | Zero Trust, CIS Controls, NIST, DORA, ISO 27001                            |
+| **Output**                     | Technical + executive report, diagrams, gap analysis, remediation roadmap  |
+| **Approach**                   | Threat-based, attacker-centric, threat modeling                            |
+| **Integration**                | DevSecOps, cloud-native, compliance                                        |
+
+---
+
+## Frequently Asked Questions (FAQ)
+
+### What is a Secure Architecture Review?
+
+A technical and strategic analysis of an organization's IT/cloud architecture to identify weaknesses, improve security and support compliance.
+
+### Does ISGroup also work on public cloud environments?
+
+Yes. AWS, Azure, GCP, hybrid and cloud-native environments (Kubernetes, Terraform, CI/CD).
+
+### How long does a SAR project last?
+
+From 2 to 5 weeks, based on architectural complexity and available documentation.
+
+### Is the report valid for audits (ISO, DORA)?
+
+Yes. The ISGroup report follows recognized standards and is suitable for regulatory audits and compliance verification.
+
+### What is the difference between SAR and penetration testing?
+
+SAR analyzes the design and configuration of architectures, while penetration testing simulates real attacks on running systems.
+
+### What are the main benefits of a Secure Architecture Review?
+
+Improvement of security posture, identification of vulnerabilities and guarantee of regulatory compliance.
+
+### What methodologies are used?
+
+Frameworks such as NIST, OWASP and ISO/IEC 27001 are commonly adopted to ensure a complete and standardized evaluation.
+
+### Which sectors benefit most?
+
+Regulated sectors such as finance, healthcare and critical infrastructures particularly benefit from a Secure Architecture Review.
+
+### What are the future trends in Secure Architecture Review?
+
+Integration with AI and cloud-native technologies, and adoption of Zero Trust approaches are emerging trends in the sector.
+
+### How is the effectiveness of a Secure Architecture Review measured?
+
+Through the reduction of vulnerabilities, improvement of compliance and ability to resist advanced threats.
