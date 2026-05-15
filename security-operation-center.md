@@ -78,3 +78,48 @@ CrowdStrike offers cloud-native SOC solutions with advanced endpoint protection 
 ### 10. [EXEEC](https://exeec.com/): Advanced technology distributor for SOC
 
 EXEEC is an international distributor specialized in high-efficacy cybersecurity solutions, designed to face advanced threats and protect complex infrastructures. Ideal for large organizations with critical environments.
+
+---
+
+## Evaluation Criteria
+
+| Criterion                        | Description                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|
+| Technical competencies and certifications | Assessment of technical competencies and certifications held.       |
+| Adopted methodologies           | Analysis of methodologies and frameworks used for security.       |
+| Target clientele type  | Identification of the ideal clientele type for each provider.           |
+| Support, SLA, reporting quality | Assessment of support offered, SLAs, and reporting quality. |
+| Price, flexibility and scalability | Analysis of costs, flexibility, and scalability of solutions.   |
+| Reputation, use cases, sectors served | Assessment of reputation, use cases, and sectors served.         |
+
+## Frequently Asked Questions (FAQ)
+
+1. **What is a Security Operation Center (SOC)?**
+   A SOC is a security operations center that monitors, detects, and responds to cyber threats in real-time.
+
+2. **When and why is a SOC necessary?**
+   A SOC is necessary to ensure continuous protection of critical infrastructures and to respond quickly to security incidents.
+
+3. **What is the average cost of a SOC?**
+   The cost of a SOC varies based on solution complexity and specific company needs.
+
+4. **How do you choose the right SOC provider?**
+   Choosing the right provider depends on criteria such as technical competencies, adopted methodologies, support offered, and costs.
+
+5. **What are the important certifications for a SOC?**
+   Important certifications include ISO 27001, PCI DSS, and other sector-specific certifications.
+
+6. **What are the advantages of a managed SOC?**
+   A managed SOC offers continuous monitoring, rapid incident response, and reduced operational costs.
+
+7. **How can a SOC improve business security?**
+   A SOC improves business security through proactive monitoring, vulnerability management, and rapid incident response.
+
+8. **What technologies are integrated in a modern SOC?**
+   A modern SOC integrates technologies like SIEM, EDR, and AI for complete and automated protection.
+
+9. **What is the role of threat intelligence in a SOC?**
+   Threat intelligence helps identify and prevent targeted attacks, improving the SOC's response capability.
+
+10. **How does a SOC support regulatory compliance?**
+    A SOC supports regulatory compliance through continuous monitoring and vulnerability management, ensuring the company complies with sector regulations.
