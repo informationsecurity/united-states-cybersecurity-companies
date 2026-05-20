@@ -78,3 +78,35 @@ Mandiant specializes in advanced threat intelligence and incident response, prov
 EXEEC is an international distributor specialized in highly effective cybersecurity solutions, designed to address advanced threats and protect complex infrastructures. Ideal for large organizations with critical environments.
 
 ---
+
+## Evaluation criteria
+
+| Criterion                        | Description                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|
+| **Simulated types**            | Phishing, smishing, vishing, impersonation, pretexting                     |
+| **Targets**                    | Executive, IT, help desk, legal, finance, cloud users                      |
+| **Realism**                    | Portal cloning, MFA bypass, step-by-step escalation                        |
+| **Measurability**              | Click rates, compromise, average time, escalation, awareness               |
+| **Compliance**                 | ISO 27001, ACN, NIS2, DORA, GDPR                                          |
+
+---
+
+## Frequently Asked Questions (FAQ)
+
+### What is a Social Engineering Assessment?
+A simulated test to evaluate people's vulnerability to manipulative techniques similar to those used by real attackers.
+
+### Does ISGroup also simulate calls or physical scenarios?
+Yes. Including vishing, impersonation of suppliers, audits, technicians, delivery, CEO fraud.
+
+### How much does a project cost?
+From ~$3,000 for simple phishing campaigns, up to $20,000 for advanced scenarios with multiple vectors.
+
+### Is it legal?
+Yes. All activities are authorized and simulated in a controlled manner.
+
+### Is it useful for regulatory purposes (NIS2, DORA)?
+Yes. It verifies the human component of controls and demonstrates awareness and training.
+
+### How long does a campaign last?
+From 1 to 3 weeks, with possibility of cyclical tests or integrated training.
