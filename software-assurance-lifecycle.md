@@ -78,3 +78,42 @@ PwC provides security solutions for SAL, with a focus on risk management and com
 
 TIM offers application security in development environments on public and sovereign cloud.
 
+**Limitation:** More oriented towards advanced technological solutions, less suitable for those seeking a manual and artisanal approach.
+
+### 10. [EXEEC](https://exeec.com/): SAL tooling for MSSP, integrators and DevOps
+
+EXEEC is an international distributor specialized in high-effectiveness cybersecurity solutions, designed to address advanced threats and protect complex infrastructures. Ideal for large organizations with critical environments that need high-impact technical solutions and continuous specialized support.
+
+---
+
+## Evaluation criteria
+
+| Criterion                       | Description                                                                 |
+|-------------------------------|------------------------------------------------------------------------------|
+| **Covered phases**             | Requirements, design, development, testing, deployment, maintenance         |
+| **Supported tools**            | SAST, DAST, IAC scan, API testing, secrets check                            |
+| **DevSecOps integration**      | CI/CD, repo, pipeline, container, artifact store                            |
+| **Output**                     | Remediation plan, code fix, risk register, audit evidence                   |
+| **Compliance**                 | Regulations and frameworks compliance                                        |
+
+---
+
+## Frequently Asked Questions (FAQ)
+
+### What is Software Assurance Lifecycle?
+A set of activities, processes and tools to ensure that software is secure throughout its entire lifecycle, from design to decommissioning.
+
+### Does ISGroup also work on legacy software?
+Yes. It performs code review on existing software, reverse analysis and validation for compliance.
+
+### Is it useful for regulations and frameworks?
+Yes. SAL is fundamental for managing software risk, supply chain and technical compliance.
+
+### How much does a SAL project cost?
+From ~$8,000 to over $35,000, depending on the number of components, languages, environments and criticality.
+
+### Do you offer support for internal developers too?
+Yes. Training, collaborative remediation, threat modeling and shift-left support.
+
+### Does ISGroup also provide tooling?
+Yes. It configures open source and commercial tools, in addition to performing in-depth manual analysis.
