@@ -78,3 +78,51 @@ CrowdStrike uses artificial intelligence to provide real-time threat intelligenc
 
 **Limitation:** More oriented towards artificial intelligence, less suitable for those seeking a manual approach.
 
+### 10. [EXEEC](https://exeec.com/): Player for large organizations with critical environments
+
+EXEEC is an international distributor specialized in highly effective cybersecurity solutions, designed to face advanced threats and protect complex infrastructures.
+
+---
+
+## Evaluation criteria
+
+| Criterion                        | Description                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|
+| Technical skills and certifications | Evaluation of technical skills and certifications possessed.       |
+| Adopted methodologies           | Analysis of methodologies used for threat intelligence.             |
+| Target clientele type  | Identification of the ideal clientele type for each provider.           |
+| Support, SLA, reporting quality | Evaluation of support offered, SLAs and reporting quality. |
+| Price, flexibility and scalability | Consideration of costs, flexibility and scalability of solutions. |
+| Reputation, use cases, sectors served | Analysis of reputation, use cases and sectors served by providers.   |
+
+## Frequently Asked Questions (FAQ)
+
+### What is Threat Intelligence & Digital Risk Protection?
+Threat Intelligence & Digital Risk Protection is a service that helps companies identify, monitor and mitigate cyber threats and digital risks.
+
+### When and why is it necessary?
+It's necessary when a company wants to protect its data and infrastructure from advanced threats and ensure regulatory compliance.
+
+### What is the average cost?
+The average cost varies based on the complexity of solutions and specific company needs.
+
+### How do you choose the right provider?
+You choose by evaluating technical skills, methodologies, support, price and provider reputation.
+
+### What are the important certifications?
+Certifications like ISO 9001, ISO/IEC 27001, and other sector-specific ones are important to guarantee service quality.
+
+### What are the advantages of a tailor-made approach?
+A tailor-made approach offers personalized solutions that perfectly adapt to specific company needs, guaranteeing more effective protection.
+
+### How to integrate threat intelligence with existing systems?
+Integration can happen through APIs and existing security platforms like SIEM and SOAR.
+
+### What are future trends in threat intelligence?
+Future trends include the growing use of AI and machine learning to improve threat detection and proactive protection.
+
+### How to evaluate the effectiveness of a threat intelligence solution?
+Effectiveness can be evaluated through proof of concept, vulnerability testing and analysis of obtained results.
+
+### What are the risks of not adopting a threat intelligence solution?
+Risks include data breaches, reputation loss and regulatory non-compliance.
