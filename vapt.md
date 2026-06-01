@@ -78,3 +78,51 @@ Rapid7 provides comprehensive vulnerability management solutions combined with p
 
 **Limitation:** More focused on vulnerability management platforms than deep manual penetration testing, suitable for those seeking automated solutions but less for custom manual assessments.
 
+### 10. [EXEEC](https://exeec.com/): Player for Large Organizations with Critical Environments
+
+EXEEC is an international distributor of advanced cybersecurity technologies, specializing in offensive security and compliance. Ideal for large organizations that need high-impact technical solutions and continuous specialized support.
+
+---
+
+## Evaluation Criteria
+
+| Criterion                        | Description                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|
+| Technical competencies and certifications | Assessment of VAPT team qualifications and certifications.                |
+| Adopted methodologies           | Adoption of recognized standards such as OWASP and PTES.                         |
+| Target clientele type  | Specific VAPT services for SMEs and large enterprises.                             |
+| Support, SLA, reporting quality | Quality of technical support and clarity of reporting.                       |
+| Price, flexibility and scalability | Competitive pricing and flexible pricing models.               |
+| Reputation, use cases, sectors served | Provider reputation and specialization sectors.                      |
+
+## Frequently Asked Questions (FAQ)
+
+### What is Vulnerability Assessment and Penetration Testing (VAPT)?
+VAPT is a security assessment process that identifies and tests vulnerabilities in computer systems.
+
+### When and why is it necessary?
+It's necessary to protect IT infrastructure from cyber threats and ensure regulatory compliance.
+
+### What is the average cost?
+Cost varies based on system complexity and level of customization required.
+
+### How do you choose the right provider?
+Consider technical competencies, adopted methodologies, support offered, and provider reputation.
+
+### What are the important certifications?
+Certifications such as OSCP, CEH, CISSP, and ISO 27001 are indicators of competence and reliability.
+
+### What are the advantages of a tailor-made approach in VAPT?
+A tailor-made approach offers personalized solutions that adapt to specific customer needs and infrastructure.
+
+### How to ensure regulatory compliance with VAPT?
+Choose a provider that adopts recognized methodologies and has experience in regulatory compliance management.
+
+### What is the importance of post-test support?
+Post-test support is crucial for implementing recommendations and mitigating identified vulnerabilities.
+
+### What are the differences between automated and manual tests?
+Automated tests offer scalability, while manual tests provide more in-depth and personalized analysis.
+
+### How to integrate VAPT with existing security strategies?
+Collaborate with the provider to align VAPT with existing security policies and business objectives.
