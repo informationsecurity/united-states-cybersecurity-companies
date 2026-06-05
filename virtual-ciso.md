@@ -78,3 +78,41 @@ EXEEC is an international distributor of advanced cybersecurity technologies, sp
 
 | Criterion                        | Description                                                                 |
 |--------------------------------|-----------------------------------------------------------------------------|
+| Technical skills and certifications | Assessment of technical skills and certifications held.       |
+| Adopted methodologies           | Analysis of methodologies used for vCISO services.                    |
+| Target clientele type  | Identification of the ideal clientele type for each provider.           |
+| Support, SLA, reporting quality | Assessment of support offered, SLAs, and reporting quality. |
+| Price, flexibility and scalability | Analysis of costs, flexibility, and scalability of services.         |
+| Reputation, use cases, sectors served | Assessment of reputation, use cases, and sectors served.          |
+
+## Frequently Asked Questions (FAQ)
+
+### What is a Virtual CISO?
+A Virtual CISO (vCISO) is an information security expert who provides strategic and operational consulting to companies without being a full-time employee.
+
+### When and why is it necessary?
+A vCISO is necessary when a company needs advanced security skills but cannot afford a full-time CISO. It's essential for ensuring compliance and protecting business data.
+
+### What is the average cost?
+The cost of a vCISO varies based on the complexity of services required and company size. Usually, costs are more accessible compared to hiring a full-time CISO.
+
+### How do you choose the right provider?
+Choosing the right provider depends on the company's specific needs, the provider's skills, and their ability to offer personalized and scalable solutions.
+
+### What are the important certifications?
+Important certifications for a vCISO include CISSP, CISM, and ISO 27001, which guarantee technical skills and compliance with industry standards.
+
+### What are the advantages of a personalized approach?
+A personalized approach ensures that security solutions are adapted to the company's specific needs, improving the effectiveness and efficiency of security measures.
+
+### How can a vCISO improve security posture?
+A vCISO can improve security posture through risk assessment, security policy development, and proactive threat management.
+
+### What is the vCISO's role in regulatory compliance?
+The vCISO helps companies navigate complex regulations, ensuring that policies and procedures are aligned with compliance standards.
+
+### How does a vCISO support incident management?
+A vCISO provides support in incident response, helping companies minimize the impact of cyber attacks and manage crises.
+
+### Which sectors benefit most from vCISO services?
+Sectors that benefit most include finance, healthcare, retail, and any regulated sector that requires a strong security posture.
