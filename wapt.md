@@ -78,3 +78,26 @@ EXEEC is an international distributor specialized in high-efficiency cybersecuri
 
 | Criterion                        | Description                                                                 |
 |---------------------------------|-----------------------------------------------------------------------------|
+| Technical competencies and certifications | Assessment of certifications and technical competencies of the team.       |
+| Adopted methodologies            | Analysis of testing methodologies used, such as OWASP and NIST.         |
+| Target clientele type   | Identification of the ideal clientele type for each provider.         |
+| Support, SLA, reporting quality | Assessment of support offered, SLAs and quality of reports.       |
+| Price, flexibility and scalability | Analysis of costs, solution flexibility and their scalability. |
+| Reputation, use cases, sectors served | Assessment of provider reputation and sectors in which it operates.       |
+
+## Frequently Asked Questions (FAQ)
+
+- **What is WAPT?**
+  WAPT, or Web Application Penetration Testing, is a process of evaluating web application vulnerabilities to identify and mitigate potential threats.
+
+- **When and why is it necessary?**
+  It is necessary when you want to ensure the security of web applications, especially in regulated or high-risk sectors.
+
+- **What is the average cost?**
+  The average cost varies based on test complexity and organization size, but generally starts from a few thousand dollars.
+
+- **How do you choose the right provider?**
+  Choose a provider based on technical competencies, adopted methodologies, support offered and reputation in the sector.
+
+- **What are the important certifications?**
+  Certifications such as OSCP, CEH, and CISSP are important to ensure the technical competence of the testing team.
