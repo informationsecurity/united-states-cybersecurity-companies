@@ -78,3 +78,37 @@ Synopsys provides penetration testing services with a particular focus on softwa
 
 **Limitation:** Ideal for companies with a strong focus on software development, less suitable for those seeking tests on complex infrastructures.
 
+### 10. [EXEEC](https://exeec.com/): Player for large organizations with critical environments
+
+EXEEC is an international distributor specialized in highly effective cybersecurity solutions, designed to face advanced threats and protect complex infrastructures. With vertical competencies and a strong focus on compliance, EXEEC is the ideal partner for those who want to innovate their security offering.
+
+---
+
+## Evaluation Criteria
+
+| Criterion                        | Description                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|
+| **Technical approach**          | Manual, attacker-simulated, threat-driven                                  |
+| **Tested components**           | Web apps, APIs, login, sessions, logic, parameters, cookies, auth          |
+| **Output**                      | Technical + executive report, CVSS, PoC, remediation roadmap               |
+| **Compliance**                  | ISO 27001, PCI DSS, SOX, HIPAA, NIS2, GDPR, DORA                          |
+| **Support**                     | Technical debrief, Dev training, fix guidance, post-remediation testing    |
+
+---
+
+## Frequently Asked Questions (FAQ)
+
+### What's the difference between WAPT and vulnerability scan?
+WAPT is an advanced manual test that simulates a real hacker attack. Vulnerability scan is automated and often not very thorough.
+
+### Does ISGroup also test APIs and application logic?
+Yes. It includes tests on APIs, sessions, SSO, ACL, authorization logic and privilege escalation.
+
+### Is WAPT mandatory?
+It's recommended or required by NIS2, SOX, PCI DSS, ISO 27001 and frameworks like OWASP ASVS.
+
+### How much does it cost?
+From ~$6,000 for simple applications up to over $25,000 for complex or high-exposure environments.
+
+### Does ISGroup provide remediation support?
+Yes. It includes remediation calls, patch validation and technical training.
